@@ -42,7 +42,7 @@
             "goals": {
                 "Vocabulario Inglés": {
                     "target": 900,
-                    "current": 0,
+                    "current": 8,
                     "unit": "Palabras"
                 },
                 "Python Scripts": {
@@ -52,7 +52,7 @@
                 },
                 "Protocolo Salud Mental": {
                     "target": 90,
-                    "current": 1,
+                    "current": 3,
                     "unit": "Días"
                 }
             }
@@ -66,12 +66,12 @@
                 },
                 "Educación": {
                     "target": 425,
-                    "current": 5,
+                    "current": 6,
                     "unit": "Clases"
                 },
                 "Escritura": {
                     "target": 172,
-                    "current": 2,
+                    "current": 3,
                     "unit": "Escritos"
                 }
             }
@@ -116,6 +116,21 @@
             "time": "2026-01-07 00:12",
             "user": "Javier",
             "note": "Ahorro Moto $40 + Ingreso diario sostenido + Hábitos OK. (Pendiente: Cursos/Lectura)."
+        },
+        {
+            "time": "2026-01-07 21:28",
+            "user": "Ricardo",
+            "note": "📚 Clases (6/425) + ✍️ Escritos (3/172): Buyer Persona creado + Preventa de 4 tortas (A espera de cobro)."
+        },
+        {
+            "time": "2026-01-06 21:28",
+            "user": "Jesus",
+            "note": "🧘 Salud Mental: Meditación + Journaling. 🇬🇧 Inglés: 3 palabras nuevas. 🐍 Python: 2 Módulos vistos."
+        },
+        {
+            "time": "2026-01-07 21:28",
+            "user": "Jesus",
+            "note": "🇬🇧 Inglés: 5/5 Palabras hoy. 🧘 Mente: Respiración de caja + Journaling (30min). 🐍 Python: 1ra Línea de código escrita."
         }
     ]
 }
